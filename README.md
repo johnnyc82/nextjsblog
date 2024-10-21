@@ -1,2 +1,1 @@
-# nextjsblog
-A simple blog built with NextJS
+A simple blog, built with NextJS
